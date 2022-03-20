@@ -29,7 +29,7 @@ export default function MemoList() {
           onPress={() => {
             Alert.alert('Are you sure?');
           }}>
-          <Icon name="delete" size={24} color="#BOBOBO" />
+          <Icon name="delete" size={24} color="#B0B0B0" />
         </TouchableOpacity>
       </TouchableOpacity>
 
@@ -48,7 +48,7 @@ export default function MemoList() {
           onPress={() => {
             Alert.alert('Are you sure?');
           }}>
-          <Icon name="delete" size={24} color="#BOBOBO" />
+          <Icon name="delete" size={24} color="#B0B0B0" />
         </TouchableOpacity>
       </TouchableOpacity>
       <TouchableOpacity
@@ -66,7 +66,7 @@ export default function MemoList() {
           onPress={() => {
             Alert.alert('Are you sure?');
           }}>
-          <Icon name="delete" size={24} color="#BOBOBO" />
+          <Icon name="delete" size={24} color="#B0B0B0" />
         </TouchableOpacity>
       </TouchableOpacity>
       <TouchableOpacity
@@ -84,7 +84,7 @@ export default function MemoList() {
           onPress={() => {
             Alert.alert('Are you sure?');
           }}>
-          <Icon name="delete" size={24} color="#BOBOBO" />
+          <Icon name="delete" size={24} color="#B0B0B0" />
         </TouchableOpacity>
       </TouchableOpacity>
     </View>
