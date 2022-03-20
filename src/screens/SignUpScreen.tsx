@@ -1,5 +1,8 @@
 import React from 'react';
 import { View, Text, TextInput, StyleSheet, TouchableOpacity } from 'react-native';
+import {
+  StackActions, NavigationActions
+} from 'react-navigation'
 
 import Button from '../components/Button'
 

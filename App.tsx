@@ -32,7 +32,7 @@ export default function App() {
         <Stack.Screen name="MemoEdit" component={MemoEditScreen} />
         <Stack.Screen name="MemoDetail" component={MemoDetailScreen} />
         <Stack.Screen
-          name="Login"
+          name="LogIn"
           component={LogInScreen}
           options={{
             cardStyleInterpolator: CardStyleInterpolators.forFadeFromBottomAndroid,
